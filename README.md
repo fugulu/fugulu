@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fugulu ! :sunglasses:
+I'm Fugulu, you can also call me Steven_fu ! :sunglasses:
 
 I'd like to do project that has java development. :ghost:
 
